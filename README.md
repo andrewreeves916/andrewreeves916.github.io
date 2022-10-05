@@ -3,7 +3,6 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>My Website</title>
 </hed>
 <body>
 <h1>My First Public Website</h1>
