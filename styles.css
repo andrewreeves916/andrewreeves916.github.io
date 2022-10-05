@@ -7,3 +7,10 @@ body {
   width: 100%;
   height: auto;
 }
+
+.test-update {
+  color: red;
+  background-color: gray;
+  font-size: 20px;
+  font-family: arial;
+}
