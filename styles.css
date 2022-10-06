@@ -12,6 +12,10 @@ a {
   height: auto;
 }
 
+table {
+  text-align: center;
+}
+
 td {
   width: 30%;
 }
