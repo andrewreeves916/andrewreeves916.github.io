@@ -12,9 +12,10 @@ a {
   height: auto;
 }
 
-.test-update {
-  color: red;
-  background-color: gray;
-  font-size: 20px;
-  font-family: arial;
+table {
+  border: 2px solid black;
+}
+
+td {
+  border: 2px solid black;
 }
